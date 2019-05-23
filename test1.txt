@@ -1,6 +1,0 @@
-frozen
-This is a apple
-test write file
-今天週四
-明天放假
-太棒了
